@@ -1,0 +1,12 @@
+# Aplicação de webcam
+torch>=2.0
+torchvision>=0.15
+opencv-python>=4.8
+ultralytics>=8.0
+numpy
+
+# Notebook de treinamento
+optuna>=3.0
+matplotlib
+pandas
+jupyter
