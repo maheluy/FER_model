@@ -167,5 +167,5 @@ O código deste repositório está sob a licença MIT. O detector usa a bibliote
 ## Autores
 
 - **André Lucas C. da Silva**
-- **Marcelo A. Heluy**: [GitHub](https://github.com/SEU_USUARIO) · [LinkedIn](LINK_LINKEDIN)
-- **Matheus L. Raposo**
+- **Marcelo A. Heluy**: [GitHub](https://github.com/maheluy) · [LinkedIn](https://www.linkedin.com/in/marcelo-albuquerque-heluy-56b594333/)
+- **Matheus L. Raposo**: [GitHub](https://github.com/MaatheusRaposo) · [LinkedIn](https://www.linkedin.com/in/matheus-raposo-5019933b8)
